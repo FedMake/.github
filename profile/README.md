@@ -18,7 +18,7 @@ Empower every person and every mission to achieve more.
 3. ### Make It Real
       Have you ever attended a training on a new technology but were unsure how you could apply it to addresss your unique challenges?  ***...Not at FedMake.***  Microsoft Federal's events are hands-on, where participants have the opportunity to bring their real world problems, and build a solution that solves them.  
 
-      Have you ever been shown capabilities, only to find out it's only available in our commercial clouds? **...Not at FedMake.**  Microsoft Federal's FedMake coaches are extremely knowledgeable on the capabilities in the United States sovereign clouds, and will only discuss the capabilities availble in them.
+      Have you ever been shown capabilities, just to find out they are only available in our commercial clouds? **...Not at FedMake.**  Microsoft Federal's FedMake coaches are extremely knowledgeable on the capabilities in the United States sovereign clouds, and will only discuss the capabilities availble in them.
 
 
 4. ### Embrace the Makers
