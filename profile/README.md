@@ -20,7 +20,6 @@ Empower every person and every mission to achieve more.
 
       Have you ever been shown capabilities, just to find out they are only available in our commercial clouds? **...Not at FedMake.**  Microsoft Federal's FedMake coaches are extremely knowledgeable on the capabilities in the United States sovereign clouds, and will only discuss the capabilities availble in them.
 
-
 4. ### Embrace the Makers
       The Makers. Microsoft Federal's FedMake program leans into the DIY Maker Movement to empower every person and every mission to achieve more. We have the tools; our customers have the motivation and imagination. We want to empower those who understand a challenge best are the same people best equipped to solve them.
 
@@ -37,5 +36,24 @@ Empower every person and every mission to achieve more.
 **November 14th - 17th, 2022**\
 *The Garage – Reston, Two Freedom Square*\
 *11955 Freedom Drive, Reston, VA, 20190*\
-[Learn More and Register](https://github.com/FedMake/.github/raw/main/profile/assets/1114)\
-![https://aka.ms/FedMake/1114](https://github.com/FedMake/.github/raw/main/profile/assets/registration-qr-code-1114.png)
+[Learn More and Register](https://aka.ms/FedMake/1114)\
+![https://aka.ms/FedMake/1114](https://github.com/FedMake/.github/raw/main/profile/assets/registration-qr-code-1114.png)\
+
+## Looking For More Reasons to Attend?
+Don't take our word for it.  Listen to your peers who attended our first event.
+
+We asked participants at the end of the event... *__'What would you most like to communicate to others about this event?'__*
+
+-	Opportunity to network with Microsoft staff. Expose to new Microsoft technology. Learned from others. 
+-	It is a way to get direct help and guidance from MS team members.
+-	The number of resources available to help you.
+-	Like minded individuals to share your passion with.
+-	Valuable learning experience and networking opportunities with Microsoft employees in federal. Great to learn and increase power platform skills.
+-	This event was a great way to practice, learn, and improve your skills for those with and without much experience.
+-	It's hugely impactful for anyone. Better sharing/marketing of the event in advance.
+-	Practical application in the Gov cloud environment, networking, discussions with peers and professionals.
+-	It was an amazing event where different agencies come together to discuss situations unique to the federal government.  Microsoft provided expert recommendations on how these situations can be addressed.  We built an app live so we were able to hear how other programmers tackle problems and learn from them, as well as the coaches teaching us solutions and tips during the entire process.  Countless resources were provided to us.  Individual attention was provided so no one walked away with unanswered questions.  
+-	Usually when people attend events like this, they arrive late and try to leave early.  This was not the case with most people arriving early and staying after hours.  People wanted to work longer because it was that valuable.  It was well worth the time and money invested in me travelling in for the event.  I hope to attend in the future again because I think the knowledge I gain to develop additional skills would be worth it. 
+-	Thank you to everyone at Microsoft for all your support and encouragement.  I have already implemented so much of what I have learned!
+
+**If you have any other questions about FedMake, contact the [FedMake team ](mailto://FedMake@microsoft.com)**
