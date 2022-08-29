@@ -1,4 +1,4 @@
-![FedMake Logo](./assets/logo.png)
+![FedMake Logo](https://github.com/FedMake/.github/raw/main/profile/assets/logo.png)
 
 ## What is FedMake
 The Microsoft Federal's FedMake program delivers hackathon style events, exclusively for Federal (Civilian / DoD / Intel) organizations, where conditions are created (and facilitated by Microsoft experts) for cross-organization teams to leverage Microsoft expertise and develop solutions that achieve their mission.
@@ -27,15 +27,15 @@ Empower every person and every mission to achieve more.
 ## Upcoming Events 
 
 ### Identifying, Classifying, and Labeling Data
-November 8th-10th, 2022
-The Garage – Reston, Two Freedom Square
-11955 Freedom Drive, Reston, VA, 20190
-[Learn More and Register](https://aka.ms/FedMake/1108)
-![https://aka.ms/FedMake/1108](assets/registration-qr-code-1108.png)
+**November 8th-10th, 2022**\
+*(The Garage – Reston, Two Freedom Square*\
+*11955 Freedom Drive, Reston, VA, 20190*\
+[Learn More and Register](https://aka.ms/FedMake/1108)\
+![https://aka.ms/FedMake/1108](https://github.com/FedMake/.github/raw/main/profile/assets/registration-qr-code-1108.png)\
 
 ### Democratized Application Development
-November 14th - 17th, 2022
-The Garage – Reston, Two Freedom Square
-11955 Freedom Drive, Reston, VA, 20190
-[Learn More and Register](https://aka.ms/FedMake/1114)
+**November 14th - 17th, 2022**\
+*The Garage – Reston, Two Freedom Square*\
+*11955 Freedom Drive, Reston, VA, 20190*\
+[Learn More and Register](https://github.com/FedMake/.github/raw/main/profile/assets//1114)\
 ![https://aka.ms/FedMake/1114](assets/registration-qr-code-1114.png)
