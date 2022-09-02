@@ -1,7 +1,7 @@
 ![FedMake Logo](https://github.com/FedMake/.github/raw/main/profile/assets/logo.png)
 
 ## What is FedMake
-Microsoft Federal's FedMake program delivers hackathon style events, exclusively for Federal (Civilian / DoD / Intel) organizations, where conditions are created (and facilitated by Microsoft experts) for cross-organization teams to leverage Microsoft expertise and develop solutions that achieve their mission.
+Microsoft Federal's FedMake program delivers hackathon style events, exclusively for Federal (Civilian / DoD / Intel) organizations, where conditions are created, and facilitated, by Microsoft experts, for cross-organization teams to leverage Microsoft expertise and develop solutions that achieve their mission.
 
 ## Our Mission
 Empower every person and every mission to achieve more.
@@ -10,29 +10,31 @@ Empower every person and every mission to achieve more.
 ## Our Approach
 
 1. ### Mission Focused
-      Whether it be specific executive orders or an organization's overall mission, FedMake events focus on outcomes.  Microsoft is uniquely positioned to help organization's achieve their mission with our portfolio of cloud services.  We want to empower our makers with the knowledge of how to **leverage their existing investment**, and any additional capabilities available, to build solutions in the United States sovereign clouds.
+      Whether it be specific executive orders or an organization's overall mission, FedMake events focus on outcomes. Microsoft is uniquely positioned to help organizations achieve their mission with our portfolio of cloud services. We want to empower our makers with the knowledge of how to **leverage their existing investment**, and any additional capabilities available, to build solutions in the United States sovereign clouds.
 
 2. ### Cross-Organization Collaboration
-      Federal entities have long discussed the importance of cross-organization collaboration. But recent changes in law and advances in technology have led to a new environment that makes it far more achievable.  Makers at the events will be broken into teams consisting of members outside their organization.  **Together they will connect and gain insight of their common challenges, understand how other federal organizations are dealing with them, and build innovative solutions that address them.**
+      Federal entities have long discussed the importance of cross-organization collaboration. But recent changes in law and advances in technology have led to a new landscape that makes it far more achievable. Makers at the events will be broken into teams consisting of members outside their organization. **Together they will connect and gain insight of their shared challenges, understand how other federal organizations are dealing with them, and build innovative solutions that address them**.
 
 3. ### Make It Real
-      Have you ever attended a training on a technology but were unsure how you could apply it to addresss your unique challenges?  ***...Not at FedMake.***  FedMake events are hands-on, where makers have the opportunity to bring their real world problems, and build a solution that solves them.  
+      Have you ever attended a training on a technology but were unsure how you could apply it to addresss your unique challenges?  ***...Not at FedMake.***\
+      *FedMake events are hands-on, where makers have the opportunity to bring their real world problems, and build a solution that solves them*.  
 
-      Have you ever been shown capabilities, just to find out they are only available in our commercial clouds? **...Not at FedMake.**  FedMake events will target the Government Community Cloud (GCC) with our coaches extremely knowledgeable of the capabilities across all the United States sovereign clouds.
+      Have you ever been shown capabilities, just to find out they are only available in our commercial clouds? ***...Not at FedMake.***\
+      *FedMake events will target the Government Community Cloud (GCC) with our coaches extremely knowledgeable of the capabilities across all the United States sovereign clouds.*
 
 4. ### Embrace the Makers
-      The Makers. The FedMake program leans into the DIY Maker Movement to empower every person and every mission to achieve more. We have the tools; our customers have the motivation and imagination. **We want to empower those who best understand a challenge because we know that they are the same people best equipped to solve them.**
+      The Makers. The FedMake program leans into the DIY Maker Movement to empower every person and every mission to achieve more. We have the tools; our customers have the motivation and imagination. **We want to empower those who best understand a challenge because we know that they are the same people best equipped to solve them**.
 
 ## Upcoming Events 
 
-### Identifying, Classifying, and Labeling Data
+### Identifying, Classifying, and Labeling Data to Meet Federal Compliance Missions
 **November 8th-10th, 2022**\
 *The Garage – Reston, Two Freedom Square*\
 *11955 Freedom Drive, Reston, VA, 20190*\
 [Learn More and Register](https://aka.ms/FedMake/1108)\
 ![https://aka.ms/FedMake/1108](https://github.com/FedMake/.github/raw/main/profile/assets/registration-qr-code-1108.png)\
 
-### Democratized Application Development
+### Democratized Application Development with Power Platform
 **November 14th - 17th, 2022**\
 *The Garage – Reston, Two Freedom Square*\
 *11955 Freedom Drive, Reston, VA, 20190*\
