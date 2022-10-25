@@ -40,7 +40,7 @@ Empower every person and every mission to achieve more.
 **November 8th-10th, 2022**\
 _The Garage – Reston, Two Freedom Square_\
 _11955 Freedom Drive, Reston, VA, 20190_\
-[View Event Schedule](events/20221108.md)\
+[View Event Schedule](https://github.com/FedMake/.github/raw/main/profile/events/20221108.md)\
 [Learn More and Register](https://aka.ms/FedMake/1108)\
 ![https://aka.ms/FedMake/1108](https://github.com/FedMake/.github/raw/main/profile/assets/registration-qr-code-1108.png)\
 
@@ -49,7 +49,7 @@ _11955 Freedom Drive, Reston, VA, 20190_\
 **November 14th - 17th, 2022**\
 _The Garage – Reston, Two Freedom Square_\
 _11955 Freedom Drive, Reston, VA, 20190_\
-[View Event Schedule](events/20221114.md)\
+[View Event Schedule](https://github.com/FedMake/.github/raw/main/profile/events/20221114.md)\
 [Learn More and Register](https://aka.ms/FedMake/1114)\
 ![https://aka.ms/FedMake/1114](https://github.com/FedMake/.github/raw/main/profile/assets/registration-qr-code-1114.png)\
 
