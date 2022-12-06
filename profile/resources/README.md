@@ -9,7 +9,7 @@
 
 ## Microsoft Power Platform Learning Resources
 
-* [https://aka.ms/PowerPlatformResources](Microsoft Power Platform: Learning Resources)
+* [Microsoft Power Platform: Learning Resources](https://aka.ms/PowerPlatformResources)
 
 ## Microsoft Power Platform Center of Excellence (CoE) Starter Kit
 
