@@ -32,29 +32,6 @@ Empower every person and every mission to achieve more.
 4. ### Embrace the Makers
 
       The Makers. The FedMake program leans into the DIY Maker Movement to empower every person and every mission to achieve more. We have the tools; our customers have the motivation and imagination. **We want to empower those who best understand a challenge because we know that they are the same people best equipped to solve them**.
-
-## Upcoming FedMake Events
-
-### Identifying, Classifying, and Labeling Data to Meet Federal Compliance Missions
-
-**November 8th-10th, 2022**\
-_The Garage – Reston, Two Freedom Square_\
-_11955 Freedom Drive, Reston, VA, 20190_\
-[View Event Schedule](https://github.com/FedMake/.github/raw/main/profile/events/20221108.md)\
-[Learn More and Register](https://aka.ms/FedMake/1108)\
-![https://aka.ms/FedMake/1108](https://github.com/FedMake/.github/raw/main/profile/assets/registration-qr-code-1108.png)\
-
-### Democratized Application Development with Power Platform
-
-**November 14th - 17th, 2022**\
-_The Garage – Reston, Two Freedom Square_\
-_11955 Freedom Drive, Reston, VA, 20190_\
-[View Event Schedule](https://github.com/FedMake/.github/raw/main/profile/events/20221114.md)\
-[Learn More and Register](https://aka.ms/FedMake/1114)\
-![https://aka.ms/FedMake/1114](https://github.com/FedMake/.github/raw/main/profile/assets/registration-qr-code-1114.png)\
-
-<!--## Why Should you Attend FedMake-->
-
 ## Looking For More Reasons to Attend?
 
 Don't take our word for it.  Listen to your peers who attended our first event.
